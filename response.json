@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "processing_time": "0.346 seconds",
+    "processing_time_ms": 346,
+    "count": 1
+  },
+  "estimates": {
+    "asc_oso": {
+      "code": "FEAA",
+      "text": "Red Ferrosol"
+    },
+    "clay": {
+      "description": "clay percentage",
+      "topsoil": 19.17000000,
+      "topsoil_stddev": 6.33000000,
+      "subsoil": 30.50000000,
+      "subsoil_stddev": 7.70000000
+    },
+    "ph": {
+      "description": "ph value",
+      "topsoil": 6.27000000,
+      "topsoil_stddev": 0.36000000,
+      "subsoil": 5.86000000,
+      "subsoil_stddev": 0.11000000
+    },
+    "organic_carbon": {
+      "description": "organic carbon percentage",
+      "topsoil": 4.60000000,
+      "topsoil_stddev": 0E-8,
+      "subsoil": 3.10000000,
+      "subsoil_stddev": 0E-8
+    },
+    "electrical_conductivity": {
+      "description": "electrical conductivity value",
+      "topsoil": 19.17000000,
+      "topsoil_stddev": 6.33000000,
+      "subsoil": 0E-8,
+      "subsoil_stddev": 0E-8
+    },
+    "soil_texture_topsoil": {
+      "code": "CL",
+      "text": "Clay Loam"
+    },
+    "soil_texture_subsoil": {
+      "code": "SC",
+      "text": "Sandy Clay"
+    }
+  }
+}
